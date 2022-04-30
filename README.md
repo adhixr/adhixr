@@ -13,3 +13,9 @@ About me:
 
 ![Adhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhixr&hide=contribs,prs)
 
+![Adhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhixr&show_icons=true)
+
+![Adhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhixr&show_icons=true&theme=radical)
+
+
+
