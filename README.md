@@ -11,7 +11,5 @@ About me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Guess how many languages I speak? 
 
-[![Adhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhixr)](https://github.com/adhixr/github-readme-stats)
-
 ![Adhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhixr&hide=contribs,prs)
 
