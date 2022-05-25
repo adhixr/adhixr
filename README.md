@@ -11,7 +11,6 @@ About me:
 - 📫 How to reach me: Linkedin -> https://www.linkedin.com/in/adhi1/ & Medium -> https://medium.com/@adhixrajan
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Guess how many languages I speak? 
-- 
 
 ![Adhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhixr&hide=contribs,prs&show_icons=true&theme=maroongold)
 
